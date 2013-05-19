@@ -12,11 +12,11 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
-    # url:  http://example.com/
+    name: Keith Yanng
+    # url:  http://quest.keithies.org/
     company:
-        name: Famous Inc.
-        # url:  http://example.com/
+        name: biideal Inc.
+        # url:  http://www.biideal.com/
 
 fork_url: https://github.com/shower/shower
 progress: true
